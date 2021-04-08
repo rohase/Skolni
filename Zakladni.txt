@@ -1,3 +1,4 @@
 Tady je zalozen zakladni text. soubor a toto je prvni zapis.
 Tak sem neco poprve pripiseme.
 Ted druhy zapis 
+Ted jsem na nove vetvi
