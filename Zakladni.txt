@@ -1,4 +1,8 @@
 Tady je zalozen zakladni text. soubor a toto je prvni zapis.
 Tak sem neco poprve pripiseme.
 Ted druhy zapis 
+
 a jedeme dal v hlavni vetvi
+
+Ted jsem na nove vetvi (a tu sem ted namergoval do masteru)
+
